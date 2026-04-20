@@ -2,7 +2,9 @@
 
 **A high-speed, competition-ready line follower built with an Arduino Nano, N20 motors, and an 8-channel TCRT5000 sensor array multiplexed for fast map pattern recognition.**
 
-![Fast Line Follower](image.png)
+<img src="ASSETS/55.jpg" width="400" alt="---">
+
+
 *(Built and programmed to compete in fast line-follower robotics competitions, capable of handling complex track patterns, sharp turns, and intersections).*
 
 ---
@@ -25,6 +27,10 @@ Fast-Line-Follower-Nano-8CH/
 ---
 
 ## 🛒 Bill of Materials (Hardware)
+
+
+<img src="ASSETS/11.jpg" width="400" alt="---">
+
 
 To replicate this competition build, you will need:
 
@@ -66,6 +72,10 @@ In high-speed robots, voltage drops from sudden motor acceleration can reset the
 
 ## 💻 Software Logic & Map Pattern Recognition
 
+
+<img src="ASSETS/33.jpg" width="400" alt="---">
+
+
 To achieve high speeds, basic "if/else" left-right logic is not enough. This code is optimized to read all 8 sensors rapidly and recognize complex track patterns commonly found in competitions.
 
 ### 1. The 8-Channel Advantage
@@ -88,6 +98,10 @@ The code includes dedicated logic blocks to handle every track anomaly without l
 
 
 ## 🚀 Getting Started & Tuning
+
+
+<img src="ASSETS/44.jpg" width="400" alt="---">
+
 
 1. **Wiring:** Connect the Nano, MUX, Motor Driver, and MP1485 according to the schematic. **Make sure the MP1485 is tuned to exactly 5.0V BEFORE connecting it to the Nano!**
 2. **Sensor Calibration:** TCRT5000 sensors are sensitive to ambient light. Calibrate the thresholds in the code based on the competition floor and lighting conditions.
