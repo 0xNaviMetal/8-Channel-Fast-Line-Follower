@@ -125,4 +125,4 @@ The code includes dedicated logic blocks to handle every track anomaly without l
 ## 🤝 Let's Connect
 
 If you want to discuss line follower algorithms or embedded systems, feel free to reach out!
-* **LinkedIn:** [slimane boucetta](https://linkedin.com/in/YourProfile)
+ 
