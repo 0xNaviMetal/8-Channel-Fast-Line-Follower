@@ -1,8 +1,4 @@
-# 🏎️ 8-Channel Fast Line Follower
 
-An autonomous, high-speed line-following robot built for competitive racing. This project uses an 8-channel IR sensor array multiplexed into an Arduino Nano to achieve high-resolution line tracking, capable of solving complex track patterns at high speeds. 
-
----
 
 ## ✨ Features
 * **Competition-Ready:** Designed and tested for fast line-following competitions.
